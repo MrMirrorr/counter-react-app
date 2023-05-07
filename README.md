@@ -1,5 +1,5 @@
 ## Simple react-app "Counter" for my first portfolio.
-Try it [here](https://mrmirrorr.github.io/counter-react-app/)
+Try it [here](https://mrmirrorr.github.io/counter-react-app/){target="_blank"}
 
 <a href="https://mrmirrorr.github.io/counter-react-app/" target="_blank">here</a>
 
